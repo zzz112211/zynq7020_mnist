@@ -22,7 +22,9 @@ A simple neural network that identifies mnist is deployed in the PL of zynq7020 
 
 本项目基于 Python 编程语言，程序运行使用的 Python 版本不限，建议使用 [Anaconda](https://www.anaconda.com) 配置 Python 环境。以下配置过程已在 windows10 系统测试通过。
 
-**📖 完整 FPGA 部署指南**: 查看 [DEPLOYMENT.md](DEPLOYMENT.md) 获取详细的 FPGA 部署步骤说明，包括如何准备和加载数据到 FPGA。
+**📖 部署文档**:
+- 🚀 快速开始: 查看 [QUICK_START.md](QUICK_START.md) 获取快速部署步骤
+- 📚 完整指南: 查看 [DEPLOYMENT.md](DEPLOYMENT.md) 获取详细的 FPGA 部署步骤说明，包括如何准备和加载数据到 FPGA
 
 
 ### python配置环境
